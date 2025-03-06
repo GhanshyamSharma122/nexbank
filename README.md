@@ -11,9 +11,14 @@ git pull
 
 after making your changes 
 simply write these command
+
 git checkout main
+
 git add .
+
 git commit -m "what improvement you did "
+
 git push
+
 if any error occurs then do git pull and resolve the conflicts and then push again
 this will publish your changes to the repo
