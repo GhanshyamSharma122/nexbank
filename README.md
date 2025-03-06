@@ -10,9 +10,17 @@ type this command first in the terminal
 
 git clone https://github.com/GhanshyamSharma122/nexbank.git
 
+then type this in the terminal
+
+flutter pub get
+
 inorder get the changes done by other members
 
 git pull
+
+ensure to get the packages installed by other members by typing this command
+
+flutter get pub
 
 after making your changes 
 simply write these command
